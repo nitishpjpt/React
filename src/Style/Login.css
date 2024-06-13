@@ -1,0 +1,12 @@
+*{
+  font-family: Belanosima;
+}
+
+.container{
+  width: 80vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin:auto;
+}
+
